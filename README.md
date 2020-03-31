@@ -36,7 +36,7 @@ It is expected that the Bank monitors compliance management system on a regular 
 
 # Other Modelling options that could had been implemented
 
-1. Could have tried LSTM to check the incoming next word.
-2. RNN to predict the values in the next data.
+1. Could have tried LSTM to check grievance categories.
+2. RNN to predict the grievance categories.
 
 So, based on the results obtained from the modelling techniques we can select either the Random Forest or the result obtained by the Log reg model as both give us similar accuracy rate.
